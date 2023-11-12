@@ -1,0 +1,4 @@
+﻿  DeltaManager.cpp
+C:\Users\finnw\source\repos\Version Control System\Version Control System\DeltaManager.cpp(93,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\finnw\source\repos\Version Control System\Version Control System\DeltaManager.cpp(100,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Version Control System.vcxproj -> C:\Users\finnw\source\repos\Version Control System\x64\Debug\Version Control System.exe
